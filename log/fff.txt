@@ -1,0 +1,262 @@
+01-25 05:58:04.007  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:04.007  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:04.111  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:04.111  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:04.215  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:04.215  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:04.319  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:04.319  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:04.328  1495  -  -  SatelliteController: iisInCarrierRoamingNbIotNtn: satellite is disabled
+01-25 05:58:04.329  1495  -  -  SatelliteController: getCarrierRoamingNtnConnectType: Falling back to global carrier config connect type: 0
+01-25 05:58:04.423  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:04.423  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:04.456  782  -  -  HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+01-25 05:58:04.527  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:04.527  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:04.631  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:04.631  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:04.735  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:04.735  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:04.840  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:04.840  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:04.943  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:04.943  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:05.047  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:05.047  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:05.151  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:05.151  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:05.255  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:05.255  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:05.359  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:05.359  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:05.463  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:05.463  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:05.567  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:05.567  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:05.671  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:05.671  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:05.779  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:05.779  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:05.883  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:05.883  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:05.987  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:05.987  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:06.091  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:06.091  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:06.195  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:06.195  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:06.240  13683  -  -  libbinder.BackendUnifiedServiceManager: Thread Pool max thread count is 0. Cannot cache binder as linkToDeath cannot be implemented. serviceName: package
+01-25 05:58:06.290  3211  -  -  artd: GetBestInfo: odex next to the dex file (/data/app/~~fz6XPhrf072k7Efo0Mv4rA==/com.google.android.gms-nElSCU4ijvzqhNet9Y0iPw==/oat/x86_64/base.odex) is kOatUpToDate with filter 'speed-profile' executable 'false'
+01-25 05:58:06.293  3211  -  -  artd: GetBestInfo: odex next to the dex file (/data/app/~~fz6XPhrf072k7Efo0Mv4rA==/com.google.android.gms-nElSCU4ijvzqhNet9Y0iPw==/oat/x86_64/split_AdsDynamite_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+01-25 05:58:06.297  3211  -  -  artd: GetBestInfo: odex next to the dex file (/data/app/~~fz6XPhrf072k7Efo0Mv4rA==/com.google.android.gms-nElSCU4ijvzqhNet9Y0iPw==/oat/x86_64/split_CronetDynamite_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+01-25 05:58:06.303  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:06.304  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:06.308  3211  -  -  artd: GetBestInfo: odex next to the dex file (/data/app/~~fz6XPhrf072k7Efo0Mv4rA==/com.google.android.gms-nElSCU4ijvzqhNet9Y0iPw==/oat/x86_64/split_DynamiteLoader_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+01-25 05:58:06.309  3211  -  -  artd: GetBestInfo: odex next to the dex file (/data/app/~~fz6XPhrf072k7Efo0Mv4rA==/com.google.android.gms-nElSCU4ijvzqhNet9Y0iPw==/oat/x86_64/split_DynamiteModulesA_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+01-25 05:58:06.311  3211  -  -  artd: GetBestInfo: odex next to the dex file (/data/app/~~fz6XPhrf072k7Efo0Mv4rA==/com.google.android.gms-nElSCU4ijvzqhNet9Y0iPw==/oat/x86_64/split_DynamiteModulesC_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+01-25 05:58:06.312  3211  -  -  artd: GetBestInfo: odex next to the dex file (/data/app/~~fz6XPhrf072k7Efo0Mv4rA==/com.google.android.gms-nElSCU4ijvzqhNet9Y0iPw==/oat/x86_64/split_GoogleCertificates_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+01-25 05:58:06.314  3211  -  -  artd: GetBestInfo: odex next to the dex file (/data/app/~~fz6XPhrf072k7Efo0Mv4rA==/com.google.android.gms-nElSCU4ijvzqhNet9Y0iPw==/oat/x86_64/split_MapsDynamite_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+01-25 05:58:06.315  3211  -  -  artd: GetBestInfo: odex next to the dex file (/data/app/~~fz6XPhrf072k7Efo0Mv4rA==/com.google.android.gms-nElSCU4ijvzqhNet9Y0iPw==/oat/x86_64/split_MeasurementDynamite_installtime.odex) is kOatUpToDate with filter 'speed' executable 'false'
+01-25 05:58:06.316  3211  -  -  artd: GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/0000000d/dl-MlkitBarcodeUi.optional_253434100800.apk has no usable artifacts
+01-25 05:58:06.317  3211  -  -  artd: GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000010/dl-Appsearch.optional_255034100800.apk has no usable artifacts
+01-25 05:58:06.318  3211  -  -  artd: GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk has no usable artifacts
+01-25 05:58:06.318  3211  -  -  artd: GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000001/CronetDynamite.apk has no usable artifacts
+01-25 05:58:06.319  3211  -  -  artd: GetBestInfo: vdex next to the dex file (/data/user/0/com.google.android.gms/app_dg_cache/9C3914BA639C225C3270B81DD57E92CD956143E9/oat/x86_64/the.vdex) is kOatUpToDate with filter 'verify' executable 'false'
+01-25 05:58:06.320  3211  -  -  artd: GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000002/DynamiteLoader.apk has no usable artifacts
+01-25 05:58:06.322  3211  -  -  artd: GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000011/dl-MlkitBarcodeUi.optional_255034100800.apk has no usable artifacts
+01-25 05:58:06.322  3211  -  -  artd: GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000005/GoogleCertificates.apk has no usable artifacts
+01-25 05:58:06.325  3211  -  -  artd: GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/0000000a/dl-MlkitOcrCommon.optional_253434100800.apk has no usable artifacts
+01-25 05:58:06.326  3211  -  -  artd: GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000014/dl-PlayCloudSearch.optional_255034100000.apk has no usable artifacts
+01-25 05:58:06.327  3211  -  -  artd: GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000008/dl-VisionOcr.optional_253434100000.apk has no usable artifacts
+01-25 05:58:06.327  3211  -  -  artd: GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/0000000c/dl-Appsearch.optional_253434100800.apk has no usable artifacts
+01-25 05:58:06.328  3211  -  -  artd: GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000009/dl-TfliteDynamiteDynamite.integ_243930802100800.apk has no usable artifacts
+01-25 05:58:06.328  3211  -  -  artd: GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/00000007/MeasurementDynamite.apk has no usable artifacts
+01-25 05:58:06.329  3211  -  -  artd: GetBestInfo: /data/user_de/0/com.google.android.gms/app_chimera/m/0000000e/dl-PlayCloudSearch.optional_253434100000.apk has no usable artifacts
+01-25 05:58:06.407  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:06.407  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:06.425  8792  -  -  BufferPoolAccessor2.0: bufferpool2 0x719453ae0108 : 5(31457280 size) total buffers - 4(25165824 size) used buffers - 131596/131601 (recycle/alloc) - 35/263189 (fetch/transfer)
+01-25 05:58:06.515  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:06.515  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:06.619  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:06.619  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:06.723  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:06.723  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:06.827  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:06.827  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:06.931  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:06.931  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:07.035  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:07.035  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:07.139  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:07.139  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:07.243  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:07.243  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:07.347  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:07.347  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:07.451  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:07.451  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:07.463  782  -  -  HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+01-25 05:58:07.556  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:07.556  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:07.659  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:07.659  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:07.765  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:07.765  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:07.867  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:07.867  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:07.971  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:07.971  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:08.075  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:08.075  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:08.179  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:08.179  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:08.283  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:08.283  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:08.387  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:08.387  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:08.491  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:08.491  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:08.595  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:08.595  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:08.699  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:08.699  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:08.803  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:08.803  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:08.907  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:08.907  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:09.011  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:09.011  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:09.115  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:09.115  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:09.220  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:09.220  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:09.323  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:09.323  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:09.431  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:09.431  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:09.535  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:09.535  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:09.640  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:09.640  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:09.747  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:09.747  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:09.851  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:09.851  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:09.955  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:09.955  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:10.059  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:10.059  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:10.163  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:10.163  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:10.267  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:10.267  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:10.371  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:10.371  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:10.471  782  -  -  HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+01-25 05:58:10.475  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:10.475  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:10.579  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:10.579  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:10.684  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:10.684  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:10.787  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:10.787  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:10.895  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:10.895  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:10.999  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:10.999  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:11.104  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:11.104  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:11.207  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:11.207  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:11.311  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:11.311  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:11.415  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:11.415  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:11.519  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:11.519  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:11.524  8792  -  -  BufferPoolAccessor2.0: bufferpool2 0x719453ae0108 : 5(31457280 size) total buffers - 4(25165824 size) used buffers - 131749/131754 (recycle/alloc) - 35/263495 (fetch/transfer)
+01-25 05:58:11.623  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:11.623  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:11.727  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:11.727  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:11.831  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:11.831  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:11.935  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:11.935  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:12.039  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:12.039  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:12.143  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:12.143  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:12.247  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:12.247  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:12.352  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:12.352  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:12.455  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:12.455  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:12.559  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:12.559  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:12.663  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:12.663  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:12.767  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:12.767  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:12.872  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:12.872  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:12.975  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:12.975  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:13.079  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:13.079  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:13.183  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:13.183  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:13.287  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:13.287  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:13.391  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:13.391  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:13.478  782  -  -  HalDevMgr: bestIfaceCreationProposal is null, requestIface=STA, existingIface=[name=wlan0 type=STA]
+01-25 05:58:13.495  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:13.495  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:13.599  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:13.599  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:13.703  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:13.703  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:13.807  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:13.807  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:13.911  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:13.911  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:14.015  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:14.015  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:14.119  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:14.119  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:14.223  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:14.223  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:14.327  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:14.327  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:14.340  1495  -  -  SatelliteController: iisInCarrierRoamingNbIotNtn: satellite is disabled
+01-25 05:58:14.340  1495  -  -  SatelliteController: getCarrierRoamingNtnConnectType: Falling back to global carrier config connect type: 0
+01-25 05:58:14.436  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:14.436  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:14.539  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:14.539  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:14.643  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:14.643  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:14.747  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:14.747  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:14.851  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:14.851  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:14.955  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:14.955  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:15.059  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:15.059  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:15.163  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:15.163  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:15.205  2913  -  -  adservices: Skip logging because Cobalt is disabled.
+01-25 05:58:15.205  2913  -  -  adservices: Skip logging because Cobalt logger is null
+01-25 05:58:15.207  2913  -  -  adservices.measurement: Consent notification has not been displayed.
+01-25 05:58:15.207  2913  -  -  adservices: Skip logging because Cobalt is disabled.
+01-25 05:58:15.207  2913  -  -  adservices: Skip logging because Cobalt logger is null
+01-25 05:58:15.268  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:15.268  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:15.371  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:15.371  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1
+01-25 05:58:15.475  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:259 pcm_writei failed with 'cannot read/write stream data: I/O error' (-1)
+01-25 05:58:15.475  568  -  -  android.hardware.audio@7.1-impl.ranchu: pcmWrite:260 failure: -1

@@ -1,0 +1,7 @@
+PyQt6
+pyqtdarktheme
+pydantic
+python-dotenv
+GitPython
+requests
+pylogcatparser

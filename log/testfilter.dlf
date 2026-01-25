@@ -1,0 +1,26 @@
+{
+  "filters": [
+    {
+      "type": "Show",
+      "color": "#aa0000",
+      "enabled": true,
+      "fields": {
+        "TAG": {
+          "value": "TEST",
+          "case_sensitive": false
+        }
+      }
+    },
+    {
+      "type": "Show",
+      "color": "#ffffff",
+      "enabled": true,
+      "fields": {
+        "TAG": {
+          "value": "TEST2",
+          "case_sensitive": false
+        }
+      }
+    }
+  ]
+}
