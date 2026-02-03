@@ -10,3 +10,4 @@ workspace/
 .vscode/
 .idea/
 *.log
+*.txt

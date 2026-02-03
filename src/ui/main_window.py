@@ -77,6 +77,9 @@ class MainWindow(QMainWindow):
         self.analysis_panel.opencode_install_requested.connect(self._on_opencode_install_requested)
         self.analysis_panel.open_settings_requested.connect(lambda: self.tabs.setCurrentWidget(self.opencode_page))
         
+        # LogTable 상태 메시지를 메인 윈도우 상태바에 연결
+        self.log_table.status_message.connect(self._on_log_table_status)
+        
         # OpenCode 상태 확인 및 UI 업데이트
         self._check_opencode_status()
         
@@ -95,6 +98,9 @@ class MainWindow(QMainWindow):
         # 4. Status Bar
         self.setStatusBar(QStatusBar())
         self._update_status_bar()
+        
+        # 초기 LogTable 상태 표시
+        self.log_table.status_message.emit("준비")
 
     def _create_menu_bar(self):
         menubar = self.menuBar()
@@ -464,6 +470,19 @@ class MainWindow(QMainWindow):
             self.project_label.setText("No project loaded")
             self.project_label.setStyleSheet("color: gray; font-style: italic;")
             self.statusBar().showMessage(f"No project loaded | Device: {device_info}")
+    
+    def _on_log_table_status(self, message: str):
+        print(f"[MainWindow] LogTable 상태 메시지 수신: {message}")
+        """LogTable에서 상태 메시지 수신하여 상태바에 표시"""
+        # 기존 상태바 메시지에 LogTable 상태 추가
+        device_text = self.device_combo.currentText()
+        device_info = device_text if device_text and device_text != "No devices found" else "No device"
+        
+        if self.current_project:
+            project_info = f"Project: {self.current_project.split('/')[-1]} ({self.current_branch})"
+            self.statusBar().showMessage(f"{project_info} | Device: {device_info} | {message}")
+        else:
+            self.statusBar().showMessage(f"No project loaded | Device: {device_info} | {message}")
     
     def _find_adb_path(self):
         """adb.exe 경로 찾기"""
